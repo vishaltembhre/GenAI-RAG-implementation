@@ -251,7 +251,7 @@ def apiDetails():
 
 
     os.environ["OPENAI_API_TYPE"] = "azure"
-    os.environ["OPENAI_API_BASE"] = "https://biminternalcapability.openai.azure.com/"
+    os.environ["OPENAI_API_BASE"] = "https://XXXXXXXXXXX.openai.azure.com/"
     os.environ["OPENAI_API_KEY"] = openai_key.value
     os.environ["OPENAI_API_VERSION"] = "2023-07-01-preview"
     #Api details - Ends
