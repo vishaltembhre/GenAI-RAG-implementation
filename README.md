@@ -1,4 +1,5 @@
 GenAI RAG implementation [Marketing Email Generation]
+
 This project uses Python and Streamlit to create a user-friendly web application that assists with generating marketing content, specifically emails. It leverages large language models (LLMs) to craft email copy based on user input and product descriptions.
 
 Key Features:
@@ -30,6 +31,7 @@ Configure API Keys: Create a secrets file named .secrets and add your Azure Open
 Run the application: Execute python main.py to start the Streamlit app.
 
 Libraries
+
 Python
 
 Streamlit
