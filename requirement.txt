@@ -1,0 +1,11 @@
+streamlit
+langchain
+langchain-openai        # For AzureChatOpenAI (OpenAI/Azure models in v0.1+)
+faiss-cpu               # FAISS vector store
+pandas
+PyPDF2
+python-pptx             # For pptx.Presentation
+azure-identity
+azure-keyvault-secrets
+matplotlib
+seaborn
